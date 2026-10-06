@@ -1,2 +1,3 @@
 # khon_shell
-Ramakien-inspired Arch dotfiles and themes for Quickshell
+Ramakien-inspired Arch Linux dotfiles and themes for Quickshell
+
